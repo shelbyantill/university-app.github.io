@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "page": 0,
+        "total": 1,
+        "per_page": 20
+    },
+    "results": [
+        {
+            "latest.admissions.admission_rate.overall": 0.7338,
+            "latest.admissions.admission_rate.by_ope_id": 0.7338,
+            "latest.admissions.sat_scores.25th_percentile.critical_reading": 550,
+            "latest.admissions.sat_scores.75th_percentile.critical_reading": 660,
+            "latest.admissions.sat_scores.25th_percentile.math": 540,
+            "latest.admissions.sat_scores.75th_percentile.math": 640,
+            "latest.admissions.sat_scores.25th_percentile.writing": null,
+            "latest.admissions.sat_scores.75th_percentile.writing": null,
+            "latest.admissions.sat_scores.midpoint.critical_reading": 605,
+            "latest.admissions.sat_scores.midpoint.math": 590,
+            "latest.admissions.sat_scores.midpoint.writing": null,
+            "latest.admissions.act_scores.25th_percentile.cumulative": 23,
+            "latest.admissions.act_scores.75th_percentile.cumulative": 28,
+            "latest.admissions.act_scores.25th_percentile.english": 23,
+            "latest.admissions.act_scores.75th_percentile.english": 32,
+            "latest.admissions.act_scores.25th_percentile.math": 21,
+            "latest.admissions.act_scores.75th_percentile.math": 27,
+            "latest.admissions.act_scores.25th_percentile.writing": null,
+            "latest.admissions.act_scores.75th_percentile.writing": null,
+            "latest.admissions.act_scores.midpoint.cumulative": 26,
+            "latest.admissions.act_scores.midpoint.english": 28,
+            "latest.admissions.act_scores.midpoint.math": 24,
+            "latest.admissions.act_scores.midpoint.writing": null,
+            "latest.admissions.sat_scores.average.overall": 1229,
+            "latest.admissions.sat_scores.average.by_ope_id": 1229,
+            "latest.admissions.test_requirements": 1,
+            "latest.admissions.admission_rate.consumer_rate": 0.7338,
+            "school.name": "Louisiana State University and Agricultural & Mechanical College",
+            "school.city": "Baton Rouge",
+            "school.state": "LA",
+            "school.school_url": "www.lsu.edu\/"
+        }
+    ]
+}

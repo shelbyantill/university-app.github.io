@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    
+    display:flex;
+    justify-content:center; 
+    align-items:center;
+    margin:0;
+    background:#222;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("https://source.unsplash.com/1600x900/?weather");
+    background-size: 100%;
+    height:100vh;
+}
+
+
+
+
+.card{
+    background: #ffffff9a;
+    color:black;
+    padding: 3.5vh;
+    border-radius:30px;
+    width: 100%;
+    max-width:80vh;
+    margin:5vh; 
+    
+}
+
+.search{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.search2{
+    margin-left:1vh;
+}
+
+input{
+    width: calc(100% - 12vh);
+    border:none;
+    outline:none;
+    padding:1vh 2vh;
+    border-radius: 24px;
+    background:rgba(255, 255, 255, 0.837);
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:2.6vh;
+    transition: 0.4s ease-in-out;
+}
+input:hover{
+    background: #ffffff9e;
+}
+
+button{
+    margin:1vh;
+    border-radius:50px;
+    border:none;
+    outline:none;
+    width: 8vh;
+    height:5.6vh;
+    background: rgba(255, 255, 255, 0.837);
+    color:black;
+    cursor:pointer;
+    transition: 0.4s ease-in-out;
+}
+button:hover{
+    background: #ffffff9e;
+}
+
+.school{
+    background-color: rgba(255, 255, 255, 0.837);
+    border-radius: 24px;
+    padding: 1vh;
+    margin:1vh;
+    margin-bottom:2vh;
+    padding-top:3vh;
+    padding-bottom:3vh;
+}
+.uni{
+    font-size:4.5vh;
+    margin:0;
+    text-align: center;
+    margin-bottom:1.5vh;
+    font-weight: 700;
+}
+.city{
+    font-size:3.5vh;
+    text-align: center;
+}
+
+.stats{
+    width:(fit-content+1%);
+    margin:auto;
+}
+
+.bubble{
+    background-color: rgba(255, 255, 255, 0.837);
+    width:fit-content;
+    border-radius: 24px;
+    padding:1vh 1.8vh;
+    font-size:2.9vh;
+    align-self: center;
+    margin:auto;
+    margin-bottom:1vh;
+}
+
+.bubble:hover{
+    font-weight: 900;
+}
+
+.act{
+    margin-left:1vh;
+}
+.minority {
+    margin-left:1vh;
+}
+.cost{
+    margin-left:1vh;
+}
+
+.flex{
+    display:flex;
+    align-items:center;
+}
+
+.uni.loading{
+    visibility:hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
