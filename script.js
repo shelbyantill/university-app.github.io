@@ -1,5 +1,5 @@
 
-//test
+
 let university = {
     apiKey: "q2bL5TQhLhllNsk2yC6gpzjxnN6eURx105tUfhLC",
     fetchUniversity: function (school, city) {
